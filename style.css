@@ -1,0 +1,73 @@
+/*the whole email goes in here*/
+.email-container {
+  background-color: #ffd007;
+  max-width: 600px;
+  text-align: center;
+  font-family: helvetica, arial, sans-serif;
+  margin: 10px auto;
+}
+
+/*the first text email client sees - for preview text but hidden when opened*/
+.pre-header {
+  color: #ffd007;
+  font-size: 0.25em;
+}
+
+img {
+  max-width: 100%;
+  margin: 20px auto;
+}
+
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-style: italic;
+  margin-top: 0;
+}
+
+p {
+  margin: .5em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.date {
+  font-size: 2em;
+  font-weight: normal;
+
+}
+.intro {
+  margin: 10px 20px;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+.rsvp {
+  margin: 50px auto;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: 1px solid #333;
+  border-radius: 5px;
+  font-size: 2em;
+}
+.info {
+  margin: 10px 20px 30px;
+  font-weight: 300;
+}
+
+
+
+footer {
+  background-color: black;
+  color: #888;
+  padding: 20px 0;
+  margin-top: 20px;
+  font-size: .8em;
+}
