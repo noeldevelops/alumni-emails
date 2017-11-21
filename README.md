@@ -5,4 +5,4 @@ K.I.S.S. These should be mobile-first (one column preferably) and the CSS kept s
 
 The flyers can be either saved to PDF for printing or put through [Mail Chimp's CSS Inliner] (https://templates.mailchimp.com/resources/inline-css/), then sent with whatever mail client we want to use to reach alum. 
 
-Viewable at https://anc02d.github.io/alumni-emails/
+Viewable at https://noeldevelops.github.io/alumni-emails/
